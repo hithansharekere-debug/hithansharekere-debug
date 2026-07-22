@@ -1,7 +1,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,godot,c,figma,discord,react,java,github)](https://skillicons.dev)
 
 
-https://i.pinimg.com/originals/40/0f/00/400f007bade76022eb839fdbb5acf646.gif
+<img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/d5e5f958-9fd9-4b2c-a547-335a3a6ca497" />
 
 
 <!--
