@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,godot,c,figma,discord,react,java,github,linux,blender,notion,n8n)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,godot,c,figma,discord,react,java,github,linux,blender,notion,nodejs)](https://skillicons.dev)
 
 
 <img width="800" height="600" alt="Image" src="https://github.com/user-attachments/assets/d5e5f958-9fd9-4b2c-a547-335a3a6ca497" />
