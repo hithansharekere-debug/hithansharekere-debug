@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,godot,c,figma,discord,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,godot,c,figma,discord,react,devvit,java)](https://skillicons.dev)
 
 <!--
 **hithansharekere-debug/hithansharekere-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
